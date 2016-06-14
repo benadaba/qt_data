@@ -97,7 +97,7 @@ un75 = np.percentile(un34, 75)
 print("75th Percentile for uniform distribution between 3 and 4 is:", un75 )
 
 #meaning 
-#This means that 75 percent of the distribution fall below the value of g75
+#This means that 75 percent of the distribution falls below the value of g75
 print("This means that 75 percent of the uniform distribution between 3 and 4 falls below ", un75)
 
 
